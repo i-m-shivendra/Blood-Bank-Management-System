@@ -10,5 +10,5 @@ monitoring of blood availability.
 
 # Team
 - [Shivendra Pratap Singh](https://github.com/i-m-shivendra)
-- [Sagar Patle](https://github.com/sagarpatle)
+
 - [Vishakha Deshmukh](https://github.com/Vishakhadeshmukh12) 
