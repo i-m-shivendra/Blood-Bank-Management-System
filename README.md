@@ -1,14 +1,12 @@
 # Blood-Bank-Management-System
 
-<p align="center">
-<img  src = /images/bloodbank.png>
-</p>
+• Designed and implemented web application for blood bank management system, provided with features such as
+Sign up, Login, Customer queries, view profile, discussion forums.
 
-# Blood Bank
-desc...
+• Implemented a user-friendly interface for donor registration, blood inventory management, and real-time
+monitoring of blood availability.
 
-# Visit
-Click [here](https://isalma.github.io/Blood-Bank-FullStackDevelopmentProject/index.html) to go to the website.
+• Tech Stacks- HTML, CSS, JavaScript, Node JS, Mongo DB
 
 # Team
 - [Shivendra Pratap Singh](https://github.com/i-m-shivendra)
