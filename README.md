@@ -6,5 +6,3 @@
 - 💬 **Implemented an interactive discussion forum** and **customer query module**, fostering community engagement and enhancing communication between donors and recipients.  
 - 🛠 **Built using modern web technologies** including **HTML, CSS, JavaScript, Node.js, and MongoDB**, showcasing expertise in **full-stack development and database management**.  
 
-
-- [Vishakha Deshmukh](https://github.com/Vishakhadeshmukh12) 
