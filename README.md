@@ -1,16 +1,10 @@
-# Blood-Bank-Management-System
+## 🚀 Project Highlights  
 
-• Designed and implemented web application for blood bank management system, provided with features such as
-Sign up, Login, Customer queries, view profile, discussion forums.
+- 🏥 **Designed and implemented a full-stack web application** for efficient **Blood Bank Management**, enabling seamless donor registration and blood inventory tracking.  
+- 🔑 **Integrated user authentication features** including **Sign Up, Login, and Profile Management**, ensuring secure access for donors, recipients, and administrators.  
+- 📊 **Developed a real-time blood availability monitoring system**, allowing users to check blood stock levels and request donations effortlessly.  
+- 💬 **Implemented an interactive discussion forum** and **customer query module**, fostering community engagement and enhancing communication between donors and recipients.  
+- 🛠 **Built using modern web technologies** including **HTML, CSS, JavaScript, Node.js, and MongoDB**, showcasing expertise in **full-stack development and database management**.  
 
-• Implemented a user-friendly interface for donor registration, blood inventory management, and real-time
-monitoring of blood availability.
-
-• Tech Stacks- HTML, CSS, JavaScript, Node JS, Mongo DB
-
-# Team
-- [Shivendra Pratap Singh](https://github.com/i-m-shivendra)
-
-- [Sagar Patle](https://github.com/sagarpatle)
 
 - [Vishakha Deshmukh](https://github.com/Vishakhadeshmukh12) 
